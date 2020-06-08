@@ -1,6 +1,6 @@
 # This is my Test for school
 
-It's a very rough start but still building!
+It's a very rough start but still building! I'm hoping this gets easier as I commit more and more changes
 
 # AngularTourOfHeroes
 
